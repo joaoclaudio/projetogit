@@ -1,3 +1,4 @@
 versoes:
     - versao 0001
     - versao 0002
+    - versao 0003
